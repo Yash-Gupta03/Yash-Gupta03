@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on Backend Development.
 - 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me: E-mail - y.yashgupta03@gmail.com
+-    [Download my Resume](https://github.com/Yash-Gupta03/resume/releases/download/v1.0.0/YashGuptaResume.pdf)
 
 
 # 💻 Tech Stack:
